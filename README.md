@@ -10,5 +10,9 @@ Aplicación Funcional Vaadin 8 - Con JPA y un CRUD Funcional.
 
 4.) Formualario Vaadin que hace Binder con una Clase POJO.
 
-5.) Para ver este el Video de Este Repositorio Visita: https://www.youtube.com/watch?v=SDUMNqC93l4
+5.) 25 Minutos de trabajo.
+
+
+
+6.) Para ver este el Video de Este Repositorio Visita: https://www.youtube.com/watch?v=SDUMNqC93l4
 
